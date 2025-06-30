@@ -5,7 +5,7 @@ Helping build a more decentralized Solana through transparency, consistency, and
 
 ---
 
-![AndrewInUA GitHub Banner](https://raw.githubusercontent.com/AndrewInUA/banner/main/banner.png)
+![AndrewInUA GitHub Banner](https://github.com/AndrewInUA/banner/blob/main/Andrew%20banner.png?raw=true)
 
 ---
 
