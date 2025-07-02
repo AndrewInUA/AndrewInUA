@@ -47,7 +47,7 @@ I believe in:
 |----------|-------------|
 | [🧰 solana-validator-resources](https://github.com/AndrewInUA/solana-validator-resources) | Open guides, assets, and tools for validators & stakers |
 | [📊 Validator Metrics Widget](https://github.com/AndrewInUA/solana-validator-metrics-html-widget) | Embed epoch data and performance into your site |
-| [📥 Vault Invoices Checker](https://github.com/AndrewInUA/vault-invoices-checker) | Cross-check invoice entries before submitting to Vault |
+| [📥 Vault Invoices Checker](https://github.com/AndrewInUA/vault-invoices-checker) | Check your Vault's invoice status |
 
 ---
 
