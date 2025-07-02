@@ -15,28 +15,53 @@
 
 ## 🧭 About Me
 
-I'm a Solana validator focused on transparency, uptime, and community contribution.  
-Even though I'm not a developer, I actively build resources and tools to support delegators and validators.
-
-> 💡 *Reliable. Transparent. Ukrainian.*
+🇺🇦 Ukrainian validator contributing to the decentralization and transparency of the Solana ecosystem.  
+I'm not a developer — I’m a builder of trust, visual tools, and onboarding resources for the community.
 
 ---
 
-## 🚀 My Key Repositories
+## 🔭 What I’m Working On
 
-| Project | Description |
-|--------|-------------|
-| [solana-validator-resources](https://github.com/AndrewInUA/solana-validator-resources) | Open hub for guides, tools, and community assets |
-| [solana-validator-metrics-html-widget](https://github.com/AndrewInUA/solana-validator-metrics-html-widget) | Lightweight widget for live validator stats |
-| [vault-invoices-checker](https://github.com/AndrewInUA/vault-invoices-checker) | Helper script for Vault stake transparency |
+- Running a reliable, human-driven [Solana validator](https://andrewinua.com)
+- Building visual tools like the [Validator Metrics Widget](https://github.com/AndrewInUA/solana-validator-metrics-html-widget)
+- Helping delegators and node operators with easy-to-follow [guides](https://github.com/AndrewInUA/solana-validator-resources/tree/main/guides)
+- Promoting decentralization through branding, visuals & content
 
 ---
 
-## 📬 Contact
+## 💡 Philosophy
+
+> Solana works best when more people participate.  
+> Whether you're staking 1 SOL or running a node — you're part of something powerful.
+
+I believe in:
+- 🧭 Transparency over hype  
+- 🛠 Tools over buzzwords  
+- 🇺🇦 Responsibility to represent Ukraine in Web3  
+
+---
+
+## 📚 Explore My Work
+
+| Resource | Description |
+|----------|-------------|
+| [🧰 solana-validator-resources](https://github.com/AndrewInUA/solana-validator-resources) | Open guides, assets, and tools for validators & stakers |
+| [📊 Validator Metrics Widget](https://github.com/AndrewInUA/solana-validator-metrics-html-widget) | Embed epoch data and performance into your site |
+| [📥 Vault Invoices Checker](https://github.com/AndrewInUA/vault-invoices-checker) | Cross-check invoice entries before submitting to Vault |
+
+---
+
+## 🔗 Delegate to My Validator
+
+[![Stake with AndrewInUA](https://img.shields.io/badge/Stake%20with%20AndrewInUA-Solana-brightgreen?style=for-the-badge&logo=solana)](https://andrewinua.com/#delegate)
+
+Secure. Transparent. Ukrainian.
+
+---
+
+## 📬 Reach Me
 
 - Telegram: [@AndrewInUA](https://t.me/AndrewInUA)
 - Website: [andrewinua.com](https://andrewinua.com)
 
----
-
-> Let’s make Solana more decentralized — together.
+> Let’s make decentralization real — together.
