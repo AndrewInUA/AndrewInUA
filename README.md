@@ -6,10 +6,12 @@
 
 # 👋 Hi, I’m AndrewInUA
 
-![Solana](https://img.shields.io/badge/Network-Solana-5f36ff)
-![🇺🇦](https://img.shields.io/badge/Country-Ukraine-blue)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
-![Stars](https://img.shields.io/github/stars/AndrewInUA/solana-validator-resources?style=social)
+[![Stake with AndrewInUA](https://img.shields.io/badge/Stake%20Now-Solana-brightgreen?style=for-the-badge&logo=solana)](https://andrewinua.com/#delegate)
+[![Resources](https://img.shields.io/badge/Validator%20Resources-Open%20Guides-blue?style=for-the-badge)](https://github.com/AndrewInUA/solana-validator-resources)
+[![Metrics Widget](https://img.shields.io/badge/Metrics%20Widget-View%20Repo-purple?style=for-the-badge)](https://github.com/AndrewInUA/solana-validator-metrics-html-widget)
+[![Telegram](https://img.shields.io/badge/Telegram-Chat-blue?style=for-the-badge&logo=telegram)](https://t.me/AndrewInUA)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](https://github.com/AndrewInUA/solana-validator-resources/blob/main/LICENSE)
+[![Ukrainian Validator](https://img.shields.io/badge/Ukrainian%20Validator-%F0%9F%87%BA%F0%9F%87%A6-yellow?style=for-the-badge)](https://andrewinua.com)
 
 ---
 
