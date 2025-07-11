@@ -4,7 +4,7 @@
   <img src="https://github.com/AndrewInUA/banner/blob/main/Andrew%20banner.png" alt="AndrewInUA Banner" width="100%" />
 </p>
 
-# 👋 Hi, I’m AndrewInUA
+# 👋 Hi, I’m AndrewInUA 
 
 [![Stake with AndrewInUA](https://img.shields.io/badge/Stake%20Now-Solana-brightgreen?style=for-the-badge&logo=solana)](https://andrewinua.com/#delegate)
 [![Resources](https://img.shields.io/badge/Validator%20Resources-Open%20Guides-blue?style=for-the-badge)](https://github.com/AndrewInUA/solana-validator-resources)
