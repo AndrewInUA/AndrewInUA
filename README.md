@@ -18,14 +18,14 @@
 ## 🧭 About Me
 
 🇺🇦 Ukrainian validator contributing to the decentralization and transparency of the Solana ecosystem.  
-I'm not a developer — I'm a builder of trust, visual tools, and onboarding resources for delegators and operators.
+I'm not a developer – I'm a builder of trust, visual tools, and onboarding resources for delegators and operators.
 
 ---
 
 ## 🔭 What I'm Working On
 
 - Running a reliable, human-driven [Solana validator](https://andrewinua.com)
-- **[Validator Transparency Dashboard](https://validator-transparency-dashboard.vercel.app)** — compare any mainnet validator on stability history, commission risk, voting behavior, APY context, and stake-pool signals
+- **[Validator Transparency Dashboard](https://validator-transparency-dashboard.vercel.app)** – compare any mainnet validator on stability history, commission risk, voting behavior, APY context, and stake-pool signals
 - Lightweight embed tools like the [Validator Metrics Widget](https://github.com/AndrewInUA/solana-validator-metrics-html-widget)
 - Easy-to-follow [guides & resources](https://github.com/AndrewInUA/solana-validator-resources/tree/main/guides) for stakers and node operators
 - Practical open utilities like the [Vault Invoices Checker](https://github.com/AndrewInUA/vault-invoices-checker)
@@ -35,7 +35,7 @@ I'm not a developer — I'm a builder of trust, visual tools, and onboarding res
 ## 💡 Philosophy
 
 > Solana works best when more people participate.  
-> Whether you're staking 1 SOL or running a node — you're part of something powerful.
+> Whether you're staking 1 SOL or running a node – you're part of something powerful.
 
 I believe in:
 - 🧭 Transparency over hype  
@@ -48,7 +48,7 @@ I believe in:
 
 | Resource | Description |
 |----------|-------------|
-| [🔍 Validator Transparency Dashboard](https://github.com/AndrewInUA/validator-transparency-dashboard) · [**live**](https://validator-transparency-dashboard.vercel.app) | Delegator comparison navigator: all-time stability, network-relative read, live RPC status, Trillium pool split, A/B compare — any validator |
+| [🔍 Validator Transparency Dashboard](https://github.com/AndrewInUA/validator-transparency-dashboard) · [**live**](https://validator-transparency-dashboard.vercel.app) | Delegator comparison navigator: all-time stability, network-relative read, live RPC status, Trillium pool split, A/B compare – any validator |
 | [🧰 solana-validator-resources](https://github.com/AndrewInUA/solana-validator-resources) | Open guides, assets, and tools for validators & stakers |
 | [📊 Validator Metrics Widget](https://github.com/AndrewInUA/solana-validator-metrics-html-widget) | Lightweight HTML + JS widget to embed epoch stats on your site |
 | [📥 Vault Invoices Checker](https://github.com/AndrewInUA/vault-invoices-checker) | Check stake invoice status for Vault program participants |
@@ -69,4 +69,4 @@ Secure. Transparent. Ukrainian.
 - Website: [andrewinua.com](https://andrewinua.com)
 - X: [@Andrew_In_UA](https://x.com/Andrew_In_UA)
 
-> Let's make decentralization real — together.
+> Let's make decentralization real – together.
