@@ -28,7 +28,7 @@ I'm not a developer — I'm a builder of trust, visual tools, and onboarding res
 - **[Validator Transparency Dashboard](https://validator-transparency-dashboard.vercel.app)** — compare any mainnet validator on stability history, commission risk, voting behavior, APY context, and stake-pool signals
 - Lightweight embed tools like the [Validator Metrics Widget](https://github.com/AndrewInUA/solana-validator-metrics-html-widget)
 - Easy-to-follow [guides & resources](https://github.com/AndrewInUA/solana-validator-resources/tree/main/guides) for stakers and node operators
-- Open utilities for the ecosystem (alerts, Vault checks, stake-pool research)
+- Practical open utilities like the [Vault Invoices Checker](https://github.com/AndrewInUA/vault-invoices-checker)
 
 ---
 
@@ -52,8 +52,6 @@ I believe in:
 | [🧰 solana-validator-resources](https://github.com/AndrewInUA/solana-validator-resources) | Open guides, assets, and tools for validators & stakers |
 | [📊 Validator Metrics Widget](https://github.com/AndrewInUA/solana-validator-metrics-html-widget) | Lightweight HTML + JS widget to embed epoch stats on your site |
 | [📥 Vault Invoices Checker](https://github.com/AndrewInUA/vault-invoices-checker) | Check stake invoice status for Vault program participants |
-| [🔔 Delinquency Alert Bot](https://github.com/AndrewInUA/solana-delinquency-alert-bot) | Bash monitor + Telegram alerts when validators go delinquent |
-| [🏊 Stake Pools Research](https://github.com/AndrewInUA/solana-stake-pools-research) | Technical summary and comparison of major Solana stake pools |
 
 ---
 
